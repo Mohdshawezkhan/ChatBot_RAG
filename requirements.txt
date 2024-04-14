@@ -3,5 +3,5 @@ streamlit
 langchain_experimental
 streamlit_chat
 python-dotenv
-
+openai
 
