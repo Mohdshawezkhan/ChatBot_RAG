@@ -6,6 +6,11 @@ This is a Python application that enables you to load a CSV file and ask questio
 To install the repository, follow these steps:
 
 1. Clone this repository to your local machine.
+2. Install the necessary dependencies by running the following command:
+
+   ```
+   pip install -r requirements.txt
+   ```
 3. Additionally, you need to obtain an OpenAI API key and add it to the `.env` file.
 
 ## Usage
