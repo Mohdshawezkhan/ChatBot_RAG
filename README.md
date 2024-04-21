@@ -1,5 +1,7 @@
 # ChatBot_RAG
 This is a Python application that enables you to load a CSV file and ask questions about its contents using natural language. The application leverages Language Models (LLMs) to generate responses based on the CSV data. The LLM will only provide answers related to the information present in the CSV and also provide normal conversation, it does have some characteristics of a Retrieval-Augmented Generation (RAG) model.
+## Preview
+<img width="960" alt="upgit" src="https://github.com/Mohdshawezkhan/ConvoBot/assets/103235200/52cb568d-ad39-4a49-a516-63bdac4d2ee6">
 
 ## Installation
 
